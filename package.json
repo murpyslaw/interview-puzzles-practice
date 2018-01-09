@@ -2,8 +2,9 @@
   "name": "interview-puzzles-practice",
   "version": "1.0.0",
   "description": "Basic data-structures / algorithms and puzzles for the software interview",
-  "main": "index.ts",
+  "main": "./src/index.ts",
   "scripts": {
+		"start": "./node_modules/.bin/ts-node ./src/index.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -24,5 +25,9 @@
   "bugs": {
     "url": "https://github.com/murpyslaw/interview-puzzles-practice/issues"
   },
-  "homepage": "https://github.com/murpyslaw/interview-puzzles-practice#readme"
+  "homepage": "https://github.com/murpyslaw/interview-puzzles-practice#readme",
+  "devDependencies": {
+    "ts-node": "^4.1.0",
+    "typescript": "^2.6.2"
+  }
 }
