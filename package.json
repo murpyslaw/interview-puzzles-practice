@@ -1,0 +1,28 @@
+{
+  "name": "interview-puzzles-practice",
+  "version": "1.0.0",
+  "description": "Basic data-structures / algorithms and puzzles for the software interview",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/murpyslaw/interview-puzzles-practice.git"
+  },
+  "keywords": [
+    "code",
+    "interview",
+    "typescript",
+    "data",
+    "structure",
+    "algorithms",
+    "puzzle"
+  ],
+  "author": "Radoslav Ivanov Ivanov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/murpyslaw/interview-puzzles-practice/issues"
+  },
+  "homepage": "https://github.com/murpyslaw/interview-puzzles-practice#readme"
+}
